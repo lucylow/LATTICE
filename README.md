@@ -1,2 +1,4 @@
 # LATTICE
-LATTICE: Linking Authentication Through Trust, Identity, and Cryptographic Encryption
+
+L.A.T.T.I.C.E.: 
+Linking Authentication Through Trust, Identity, and Cryptographic Encryption
